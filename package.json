@@ -1,0 +1,20 @@
+{
+    "name": "additionwithoutcarrying",
+    "version": "1.0.0",
+    "description": "A little child is studying arithmetic. They have just learned how to add two integers, written one below another, column by column. But the child always forgets about the important part - carrying.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeferson-franco/additionWithoutCarrying.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeferson-franco/additionWithoutCarrying/issues"
+    },
+    "homepage": "https://github.com/jeferson-franco/additionWithoutCarrying#readme"
+}
